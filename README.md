@@ -2,7 +2,7 @@
 问题分享
 
 #问题1：启用 Azure PIM 报 “未知错误” 无法使用。
-![hippo](./.JPG)
+![hippo](./debugAzure21V-PIM未知错误.JPG)
 环境：azure.cn
 
 解决过程：
