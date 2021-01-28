@@ -1,5 +1,5 @@
 # LopNor
-问题分享
+复刻罗布泊，自由驰骋的路上，乐于互助，问题分享。
 
 #问题1：启用 Azure PIM 报 “未知错误” 无法使用。
 ![hippo](./debugAzure21V-PIM未知错误.JPG)
