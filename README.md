@@ -11,6 +11,6 @@
 
 原因：
 第一次启用PIM的时候，PIM需要check每个tenant的cloud instance.
-For azure.cn:PIM的判断依据是ESTS（AAD认证服务）返回一个value是不是chinacloudapi.cn，不过ESTS最近返回的是partner.onmschina.cn，导致PIM判断失败，后面onboard也做不了。
+For azure.cn:PIM的判断依据是AAD认证服务,返回一个value是不是chinacloudapi.cn，不过AAD认证服务最近返回的是partner.onmschina.cn，导致PIM判断失败，后面onboard也做不了。
 
 感谢后台工程师朋友的支持。
