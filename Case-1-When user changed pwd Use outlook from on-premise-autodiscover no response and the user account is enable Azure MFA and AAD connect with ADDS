@@ -1,0 +1,4 @@
+1.workround for user: disable MFA for user , after outlook connected,enable MFA .
+2.How to Fixed: 
+      1)download "Azure IP Ranges and Service Tags – Public Cloud" from https://www.microsoft.com/en-us/download/details.aspx?id=56519  
+      2)Open the Azure IP Ranges from internal NAVs. 
